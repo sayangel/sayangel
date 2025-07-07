@@ -9,6 +9,10 @@ Always tinkering.
     {
       "chain": "ethereum",
       "address": "0x88d0e89e7f502aa49a564b683e19089c771776c3"
+    },
+    {
+      "chain": "solana",
+      "address": "GmhcDAPDMM6MYDn4C3ygrK4wnwZUXbSJoJxqqiPCVAy7"
     }
   ]
 }
